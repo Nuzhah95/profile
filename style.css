@@ -3,13 +3,18 @@
 h1{
   color: rgb(128, 55, 0);
   font-family: 'Satisfy', cursive;
+  font-size: 40px;
 
 }
 h2{
   color:rgb(128, 55, 0);
   font-family: 'Satisfy', cursive;
+  font-size: 40px
 }
+ p{
+  font-size: 20px;
 
+ }
 body {
   font-family: 'Open Sans', sans-serif;
   font-weight: 200;
@@ -84,8 +89,8 @@ img{
   padding: 0px 10px;
 }
 .footer-links a:hover {
-  opacity: 2;
+  opacity: 0.5;
 }
-/* .footer .fa-heart {
+.footer .fa-heart {
   color: #D23333;
-} */
+}
